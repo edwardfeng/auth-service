@@ -1,0 +1,24 @@
+{
+  "name": "auth-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha src/app.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edwardfeng/auth-service.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edwardfeng/auth-service/issues"
+  },
+  "homepage": "https://github.com/edwardfeng/auth-service#readme",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "supertest": "^6.3.3"
+  }
+}
